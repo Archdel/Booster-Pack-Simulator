@@ -29,8 +29,3 @@ pip-delete-this-directory.txt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# Generated data
-data/*.json
-data/*.csv
-data/*.sql
